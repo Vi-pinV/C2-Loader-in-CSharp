@@ -1,0 +1,9 @@
+C:\Users\vipin\source\repos\socket_client\socket_client\bin\Debug\socket_client.exe.config
+C:\Users\vipin\source\repos\socket_client\socket_client\bin\Debug\socket_client.exe
+C:\Users\vipin\source\repos\socket_client\socket_client\bin\Debug\socket_client.pdb
+C:\Users\vipin\source\repos\socket_client\socket_client\obj\Debug\socket_client.csproj.AssemblyReference.cache
+C:\Users\vipin\source\repos\socket_client\socket_client\obj\Debug\socket_client.csproj.CoreCompileInputs.cache
+C:\Users\vipin\source\repos\socket_client\socket_client\obj\Debug\socket_client.exe
+C:\Users\vipin\source\repos\socket_client\socket_client\obj\Debug\socket_client.pdb
+C:\Users\vipin\source\repos\socket_client\socket_client\bin\Debug\System.Management.Automation.dll
+C:\Users\vipin\source\repos\socket_client\socket_client\obj\Debug\socket_c.FD1FD0EF.Up2Date

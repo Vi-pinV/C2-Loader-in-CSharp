@@ -1,0 +1,9 @@
+C:\Users\vipin\source\repos\socket_server\socket_server\bin\Debug\socket_server.exe.config
+C:\Users\vipin\source\repos\socket_server\socket_server\bin\Debug\socket_server.exe
+C:\Users\vipin\source\repos\socket_server\socket_server\bin\Debug\socket_server.pdb
+C:\Users\vipin\source\repos\socket_server\socket_server\obj\Debug\socket_server.csproj.AssemblyReference.cache
+C:\Users\vipin\source\repos\socket_server\socket_server\obj\Debug\socket_server.csproj.CoreCompileInputs.cache
+C:\Users\vipin\source\repos\socket_server\socket_server\obj\Debug\socket_server.exe
+C:\Users\vipin\source\repos\socket_server\socket_server\obj\Debug\socket_server.pdb
+C:\Users\vipin\source\repos\socket_server\socket_server\bin\Debug\System.Management.Automation.dll
+C:\Users\vipin\source\repos\socket_server\socket_server\obj\Debug\socket_s.CEA87057.Up2Date

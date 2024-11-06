@@ -1,0 +1,7 @@
+C:\Users\vipin\source\repos\loader\loader\bin\Debug\loader.exe.config
+C:\Users\vipin\source\repos\loader\loader\bin\Debug\loader.exe
+C:\Users\vipin\source\repos\loader\loader\bin\Debug\loader.pdb
+C:\Users\vipin\source\repos\loader\loader\obj\Debug\loader.csproj.AssemblyReference.cache
+C:\Users\vipin\source\repos\loader\loader\obj\Debug\loader.csproj.CoreCompileInputs.cache
+C:\Users\vipin\source\repos\loader\loader\obj\Debug\loader.exe
+C:\Users\vipin\source\repos\loader\loader\obj\Debug\loader.pdb
